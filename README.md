@@ -23,7 +23,7 @@ ERRORS
 If something went wrong;
 
 1. Try to update pytube by type this command: 
-	|python3 -m pip install --upgrade pytube| or |python -m pip install --upgrade pytube|
+	python3 -m pip install --upgrade pytube| or |python -m pip install --upgrade pytube
 
 2. Maybe your path is unveiled.
 
