@@ -1,2 +1,0 @@
-Pytube >= 11.0
-Python >= 3.7
