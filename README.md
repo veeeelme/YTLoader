@@ -40,7 +40,7 @@ For other errors, write your problem in issues. Or just visit stack overflow)
 TODO
 
 
-1. Add other resolutions - like 240p, 360p, 720p, 1080p...
+1. Add other resolutions - like 240p, 360p, 720p, 1080p... 'DONE' 
 
 2. Add function for downloading entire playlists.
 
