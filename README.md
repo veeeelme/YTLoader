@@ -1,4 +1,4 @@
-YTLoader™ is fully free, lightweight and simple YouTube video downloader (at lowest resolution).😁
+YTLoader™ is fully free, lightweight and simple YouTube video downloader.😁
 
 
 INSTALATION
