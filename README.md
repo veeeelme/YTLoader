@@ -44,7 +44,9 @@ TODO
 
 2. Add function for downloading entire playlists.
 
-3. Add function that shows info about videos or playlists
+3. Add function that shows info about videos or playlists.
+
+4. Add function that extract audio from video, and downloading it. 
 
 
 
