@@ -25,7 +25,7 @@ If something went wrong;
 1. Try to update pytube by type this command: 
 	python3 -m pip install --upgrade pytube| or |python -m pip install --upgrade pytube
 
-2. Maybe your path is unveiled.
+2. Maybe your path is unvailed.
 
 3. If you have this error; get_throttling_function_name: could not find match for multiple, 
 	visit cipher.py in pytube`s directory and find function_patterns variable. Change 		
